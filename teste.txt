@@ -1,5 +1,8 @@
 Boa tarde!
 
 Olá
+<<<<<<< HEAD
 
 Jan.
+=======
+>>>>>>> Teste/master
